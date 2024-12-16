@@ -1,4 +1,5 @@
 # Base de Données pour la Gestion d'un Blog  
+Une base de données MySQL pour la gestion d'un Blog. Il contient les structures et données nécessaires pour gérer les Articles, les Commentaires et les utilisateurs par les Admins.
 
 ## Description  
 Cette base de données a été conçue pour gérer un système de blog avec des fonctionnalités complètes telles que :  
