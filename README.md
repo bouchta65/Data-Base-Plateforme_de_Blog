@@ -39,3 +39,4 @@ Cette base de données a été conçue pour gérer un système de blog avec des 
 | `User ↔ Black_Liste`   | Un utilisateur peut être ajouté à la liste noire.      |  
 
 ---
+
